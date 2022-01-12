@@ -11,7 +11,7 @@ Web Portfolio
 
 [GitWebpage](https://ni7sh.github.io/MyPortfolio/)
 
-[Domain](https://vps.playpoolstudios.com/nimesh/)
+[Domain](https://playpoolstudios.com/about-dev/)
 
 Preview
 ------
